@@ -1,6 +1,5 @@
 [order: 30]:/
 [show-if: has_blog]:/
-[title: Archive]:/
 
 <div class="page-header">
 	<h1>Blog Archive</h1>
