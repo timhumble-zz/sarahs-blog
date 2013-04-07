@@ -1,0 +1,13 @@
+[
+blog_root: "/blog_posts",
+site_title: "Sarah's Blog",
+template_url: "https://github.com/timhumble/template-blue.git",
+global_xform: [
+	set-value-xform: ["type", "carousel", 
+		and_test: [
+			file-suffix-test: "jpg",
+			path-prefix-test: "bucket"
+			]
+		]
+	]
+]
