@@ -1,8 +1,6 @@
 [title: Welcome Everyone]:/
 [date: 2013-04-07]:/
 
-## Welcome Everyone
-
 This is my first blog, and my first blog post.
 
 I'm going to be blogging all about my low-carb diet, called [NHE](http://www.amazon.com/Natural-Hormonal-Enhancement-Rob-Faigin/dp/0967560500/ref=cm_cr_pr_product_top/183-0220394-4733973).
