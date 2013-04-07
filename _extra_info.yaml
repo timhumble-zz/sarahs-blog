@@ -1,5 +1,5 @@
 [
-blog_root: "/blog_posts",
+blog_root: "/blog",
 site_title: "Sarah's Blog",
 template_url: "https://github.com/timhumble/template-sarah.git",
 global_xform: [
