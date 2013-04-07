@@ -4,8 +4,6 @@
 Sarah's Blog
 ===========
 
-This is a test for Sarah's blog about low carb diets.
-
 <span data-lift="if?extra_true=has_blog">Here are my most recent blog posts:</span>
 
 <div data-lift="if?extra_true=has_blog">
